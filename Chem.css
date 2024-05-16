@@ -4,7 +4,7 @@
 }
 
 body {
-    /* background-image: url(./Images/britishColumbia.webp); */
+    background-image: url(./Images/I2.jpg);
      background-size: cover;
      background-repeat: no-repeat;
      background-position: top;
@@ -26,10 +26,9 @@ body {
 .center {
     margin-top: 20%;
     display: flex;
-    border: 6px solid;
-    background-color: #333;
-    border-color: #333;
-    font-size: 14px;
+    justify-content: space-around;
+    background-color: transparent;
+    font-size: 24px;
     font: 'Times New Roman';
     font-weight: 12px;
 }
